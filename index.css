@@ -1,0 +1,139 @@
+.title {
+    color: black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+section {
+    border: solid 1px black;
+    text-align: center;
+    font-size: 17px;
+}
+
+div {
+    display: inline-block;
+    padding: 100px;
+    margin: 100px;
+    }
+
+h3 {
+    text-decoration: underline;
+}
+
+h3:hover {
+    box-shadow: 10px 10px 11px rgba(0, 0, 0, 0.2); 
+    color: black; 
+    text-decoration: none;
+    font-size: 28px;
+    border: solid 1px black;
+}
+
+a {
+    text-decoration: none;
+}
+
+a::before {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+.blue-iziz {
+    background-color: #5B5EA6;
+    color: white;
+}
+
+.marsala {
+    background-color: #955251;
+    color: white;
+}
+
+.emerald {
+    background-color: #009B77;
+    color: white;
+}
+
+.sand-dollar {
+    background-color: #DFCFBE;
+    color: white;
+}
+
+.hover:hover {
+    box-shadow: 10px 10px 11px rgba(0, 0, 0, 0.2);
+}
+
+.robo-abril {
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+}
+
+.robo-italic {
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    font-size: 25px;
+}
+
+.robo-bold {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.edu-nsw {
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-size: 25px;
+}
+
+.edu-nsw-italic {
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.edu-nsw-bold {
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.lata {
+    font-family: 'Inconsolata', monospace;
+    font-size: 25px;
+}
+
+.lata-italic {
+    font-family: 'Inconsolata', monospace;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.lata-bold {
+    font-family: 'Inconsolata', monospace;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 26px;
+    margin: 75px;
+    padding: 75px;
+}    
+
+.h2 {
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-size: 18px;
+    margin: 75px;
+    padding: 75px;
+}
+
+.p {
+    font-family: 'Inconsolata', monospace;
+    font-size: 14px;
+    margin: 75px;
+    padding: 75px;
+}
